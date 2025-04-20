@@ -9,13 +9,12 @@
 
 ## 🔗 Github Pages
 
-[Live link]()
+[Live link](https://alpha3625.github.io/mst-test/)
 
 ## 📸 Screenshots
 
 <div align="center">
-    <img height="270px" src="" />
-    <img height="270px" src=" " />
+    <img height="270px" src="https://github.com/user-attachments/assets/cddf53e7-d979-4762-9bdd-758b4a6ed6af" />
 </div>
 
 ## 📋 Требования к заданию:
